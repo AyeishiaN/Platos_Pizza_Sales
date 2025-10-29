@@ -2,7 +2,7 @@
 
 **Introduction:**  
 
-  For this case study, I am hired by Plato’s Pizza from New Jersey to help the restaurant use their data that have been collected from the past year, 2015, to improve operations.   
+  For this case study, I am hired by Plato’s Pizza from New Jersey to help the restaurant use their data that have been collected from the past year, 2015, to improve operations. Here is the [dataset](https://www.kaggle.com/datasets/shilongzhuang/pizza-sales/data)  
 
 **Business Tasks:**  
 
