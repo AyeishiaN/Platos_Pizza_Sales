@@ -12,8 +12,8 @@ FROM pizza_sales_stagging;
 -- Fix order_date and order_time data type. Also fixed order_details_id with removing unwanted characters in alter table window
 
 ALTER TABLE pizza_sales_stagging
-	-- ADD COLUMN new_order_date DATE
-    -- AFTER order_date
+	ADD COLUMN new_order_date DATE
+    AFTER order_date
     ADD COLUMN new_order_time TIME
     AFTER order_time;
 
